@@ -5,16 +5,16 @@ import 'package:flutter/services.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
 void main() {
-  runApp(const BigDayApp());
+  runApp(const CheckandoTudoApp());
 }
 
-class BigDayApp extends StatelessWidget {
-  const BigDayApp({super.key});
+class CheckandoTudoApp extends StatelessWidget {
+  const CheckandoTudoApp({super.key});
 
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Big Day To-Do',
+      title: 'Checkando Tudo',
       debugShowCheckedModeBanner: false,
       theme: ThemeData(
         useMaterial3: true,

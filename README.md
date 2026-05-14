@@ -1,6 +1,6 @@
 # Big Day To-Do 📝
 
-Um aplicativo de lista de tarefas moderno, elegante e funcional desenvolvido com Flutter. O **Big Day To-Do** utiliza conceitos de *Glassmorphism* para uma interface visualmente atraente, proporcionando uma experiência de usuário fluida e intuitiva.
+Um aplicativo de lista de tarefas moderno, elegante e funcional desenvolvido com Flutter. O *app utiliza conceitos de *Glassmorphism* para uma interface visualmente atraente, proporcionando uma experiência de usuário fluida e intuitiva.
 
 ## ✨ Funcionalidades
 
